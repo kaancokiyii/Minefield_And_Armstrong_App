@@ -1,0 +1,29 @@
+D:\gorse2\gorsel2_2019\MAYIN_TARLASI\MAYIN_TARLASI\bin\Debug\MAYIN_TARLASI.exe.config
+D:\gorse2\gorsel2_2019\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.Form1.resources
+D:\gorse2\gorsel2_2019\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.Properties.Resources.resources
+D:\gorse2\gorsel2_2019\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.csproj.GenerateResource.Cache
+D:\gorse2\gorsel2_2019\MAYIN_TARLASI\MAYIN_TARLASI\bin\Debug\MAYIN_TARLASI.exe
+D:\gorse2\gorsel2_2019\MAYIN_TARLASI\MAYIN_TARLASI\bin\Debug\MAYIN_TARLASI.pdb
+D:\gorse2\gorsel2_2019\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.exe
+D:\gorse2\gorsel2_2019\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.pdb
+D:\gorse2\gorsel2_2019\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.csprojResolveAssemblyReference.cache
+E:\Üni-Ders\2019-2020(2)\Görsel Programlama II\MAYIN_TARLASI\MAYIN_TARLASI\bin\Debug\MAYIN_TARLASI.exe.config
+E:\Üni-Ders\2019-2020(2)\Görsel Programlama II\MAYIN_TARLASI\MAYIN_TARLASI\bin\Debug\MAYIN_TARLASI.exe
+E:\Üni-Ders\2019-2020(2)\Görsel Programlama II\MAYIN_TARLASI\MAYIN_TARLASI\bin\Debug\MAYIN_TARLASI.pdb
+E:\Üni-Ders\2019-2020(2)\Görsel Programlama II\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.csprojAssemblyReference.cache
+E:\Üni-Ders\2019-2020(2)\Görsel Programlama II\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.Form1.resources
+E:\Üni-Ders\2019-2020(2)\Görsel Programlama II\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.Properties.Resources.resources
+E:\Üni-Ders\2019-2020(2)\Görsel Programlama II\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.csproj.GenerateResource.cache
+E:\Üni-Ders\2019-2020(2)\Görsel Programlama II\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.csproj.CoreCompileInputs.cache
+E:\Üni-Ders\2019-2020(2)\Görsel Programlama II\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.exe
+E:\Üni-Ders\2019-2020(2)\Görsel Programlama II\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.pdb
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\bin\Debug\MAYIN_TARLASI.exe.config
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\bin\Debug\MAYIN_TARLASI.exe
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\bin\Debug\MAYIN_TARLASI.pdb
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.csprojAssemblyReference.cache
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.Form1.resources
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.Properties.Resources.resources
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.csproj.GenerateResource.cache
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.csproj.CoreCompileInputs.cache
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.exe
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.pdb

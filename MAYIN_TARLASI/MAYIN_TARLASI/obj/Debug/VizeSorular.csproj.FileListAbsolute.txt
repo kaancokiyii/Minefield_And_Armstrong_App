@@ -1,0 +1,10 @@
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\bin\Debug\MAYIN_TARLASI.exe.config
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\bin\Debug\MAYIN_TARLASI.exe
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\bin\Debug\MAYIN_TARLASI.pdb
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.Form1.resources
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.Properties.Resources.resources
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\VizeSorular.csproj.GenerateResource.cache
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\VizeSorular.csproj.CoreCompileInputs.cache
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.exe
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\MAYIN_TARLASI.pdb
+C:\Users\kaanf\Desktop\MAYIN_TARLASI\MAYIN_TARLASI\obj\Debug\VizeSorular.csprojAssemblyReference.cache
